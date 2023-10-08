@@ -4,8 +4,7 @@
 
 - <b>Amazon Web Services (AWS)</b>
   - [Deploy a Dynamic Web Application with Terraform Module, Docker, Amazon ECR and Amazon ECS](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Deploy a Dynamic E-commerce website](https://github.com/techwithamara/AWSDevOpsProject1)
-  - [Deploy a Dynamic Car Rental Web Application](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - <b>Microsoft Azure</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
