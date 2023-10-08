@@ -1,6 +1,6 @@
 <h1>Hi, I'm Amara! </h1>
 
-<h2>👨‍💻 Cloud/DevOps Projects:</h2>
+<h2>👨‍💻 Cloud/DevOps End to End Projects:</h2>
 
 - <b>Amazon Web Services (AWS)</b>
   - [Deploy a Dynamic Web Application with Terraform Module, Docker, Amazon ECR and Amazon ECS](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>👨‍💻 Cloud Infrastructure Projects:</h2>
+<h2>👨‍💻 Cloud simple labs:</h2>
 
 - <b>Amazon Web Services (AWS)</b>
   - [Creating VPC, Subnets, Route tables, Nat Gateway, Internet Gateway, Elastic IP using Terraform](https://github.com/techwithamara/terraformvpc)
@@ -24,6 +24,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
+
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Amazon Web Services (AWS)</b>
@@ -34,7 +35,7 @@
 - <b>Salesforce</b>
   - [Salesforce Certified Administrator](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Tutorial Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Tutorial - A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
