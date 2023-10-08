@@ -12,7 +12,7 @@
 <h2>👨‍💻 Cloud Infrastructure Projects:</h2>
 
 - <b>Amazon Web Services (AWS)</b>
-  - [Deploy a Dynamic Web Application with Terraform Module, Docker, Amazon ECR and Amazon ECS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating VPC, Subnets, Route tables, Nat Gateway, Internet Gateway, Elastic IP using Terraform](https://github.com/techwithamara/terraformvpc)
   - [Deploy a Dynamic E-commerce website](https://github.com/techwithamara/AWSDevOpsProject1)
   - [Deploy a Dynamic Car Rental Web Application](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Microsoft Azure</b>
