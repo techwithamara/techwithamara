@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>👨‍💻 Cloud simple labs:</h2>
+<h2>👨‍💻 Simple Cloud/Devops projects:</h2>
 
 - <b>Amazon Web Services (AWS)</b>
   - [Creating VPC, Subnets, Route tables, Nat Gateway, Internet Gateway, Elastic IP using Terraform](https://github.com/techwithamara/terraformvpc)
